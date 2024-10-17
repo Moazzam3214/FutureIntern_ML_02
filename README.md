@@ -83,5 +83,3 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-You can modify specific sections based on your actual results, model performances, and other details relevant to the notebook. Let me know if you'd like to tweak or add anything!
